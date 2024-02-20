@@ -3,4 +3,4 @@ How to use kubernetes for multitenancy cloud
 
 # Test 
 
-clone test
+Path tests
